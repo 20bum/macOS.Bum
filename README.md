@@ -2,11 +2,21 @@
 
 browser용 mac OS
 
-<!-- dependencies -->
+### Project init
 
+```
+npm init -y
+```
+
+### Dependencies
+
+```
 npm install express --save
 npm install nodemon --save-dev
+```
 
-<!-- local exec -->
+### Exec
 
+```
 npm run dev
+```
